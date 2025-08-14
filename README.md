@@ -2,7 +2,7 @@
 
 ## OBJECTIVE
 
-The objective of this project is to analyze the Tailwind Traders dataset using Power BI, perform data transformation and modeling, and create Sales and Profit reports for business insights. The analysis also integrates multi-currency exchange rates using Python script.
+The objective of this project is to analyze the Tailwind Traders dataset using Power BI, perform data transformation and modeling, and create Sales and Profit reports for business insights. The analysis also integrates multi-currency exchange rates using Python script. This project was completed as part of the **Microsoft Power BI Data Analyst Professional Certificate** course in Coursera and serves as the capstone project for the program.
 ________________________________________
 ## DATA SOURCES
 **•	Sales Data** – Contains sales transactions including gross product price, tax per product, quantity purchased, loyalty points etc.
